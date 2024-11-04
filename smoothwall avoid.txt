@@ -1,0 +1,6 @@
+! Title: Smoothwall Avoid
+||ad.doubleclick.net^
+||tampermonkey.net
+||test
+||test2.com
+
