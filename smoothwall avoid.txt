@@ -3,4 +3,5 @@
 ||tampermonkey.net
 ||test
 ||test2.com
+||test3
 
